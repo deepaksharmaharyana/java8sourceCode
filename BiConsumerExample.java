@@ -7,7 +7,7 @@ import java.util.function.BiConsumer;
 public class BiConsumerExample {
 
 	public static void main(String[] args) {
-		/* BiConsumer<Integer, Integer> con1 = (a,b) -> System.out.println("Add :"+(a+b));
+		/*BiConsumer<Integer, Integer> con1 = (a,b) -> System.out.println("Add :"+(a+b));
 		con1.accept(10, 20);
 		
 		List<Integer> list1 = Arrays.asList(new Integer(10),new Integer(10),new Integer(10));
